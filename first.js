@@ -15,3 +15,4 @@ console.log(person + " " + location + " " + special);
 var serious = true;
 var isFullMarks = true;
 var isSingle = false;
+console.log(serious + isFullMarks + isSingle);
