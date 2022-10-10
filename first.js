@@ -12,4 +12,6 @@ var special = "programming";
 console.log(person + " " + location + " " + special);
 
 // Boolean data type
-var = 
+var serious = true;
+var isFullMarks = true;
+var isSingle = false;
