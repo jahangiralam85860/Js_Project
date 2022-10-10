@@ -16,3 +16,9 @@ var serious = true;
 var isFullMarks = true;
 var isSingle = false;
 console.log(serious + isFullMarks + isSingle);
+
+var price1 = 10;
+var price2 = 10;
+
+var total = price1 + 10;
+console.log(total);
