@@ -25,5 +25,12 @@ console.log(total);
 
 var firstName = "jahangir alam";
 var lastName = "joy";
-var fullName = (firstName + lastName);
+var fullName = (firstName + " " +lastName);
 console.log(fullName);
+
+// string to number a convert
+var number1 = '20.10';
+var number2 = 20;
+var totalNumber = (number1 + number2);
+var sum = parseFloat(totalNumber);
+console.log(sum);
