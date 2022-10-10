@@ -1,10 +1,15 @@
 // vary + able = variable
+// Numeric data type
 var price = 10;
 var age = 20;
 var temperature = 38;
 console.log(price + age);
 
+// String data type
 var person = "jahangir alam";
-var location = "mirpur DOHS";
+var location = "Mirpur DOHS";
 var special = "programming";
 console.log(person + " " + location + " " + special);
+
+// Boolean data type
+var = 
