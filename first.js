@@ -22,3 +22,8 @@ var price2 = 10;
 
 var total = price1 + 10;
 console.log(total);
+
+var firstName = "jahangir alam";
+var lastName = "joy";
+var fullName = (firstName + lastName);
+console.log(fullName);
