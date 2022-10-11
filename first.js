@@ -41,3 +41,5 @@ var numberCheck = "100";
 console.log(typeof numberCheck);
 var numberCheck = true;
 console.log(typeof numberCheck);
+var romantic;
+console.log(romantic);
