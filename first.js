@@ -54,3 +54,7 @@ var jahangir = 100;
 var parson = 10;
 var total = jahangir / parson;
 console.log(total);
+
+var age = 21;
+var sum = age += 8;
+console.log(sum);
