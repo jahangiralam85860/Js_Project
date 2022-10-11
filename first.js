@@ -34,3 +34,6 @@ var number2 = 20;
 var totalNumber = (number1 + number2);
 var sum = parseFloat(totalNumber);
 console.log(sum);
+
+var numberCheck = 100;
+console.log(typeof numberCheck);
