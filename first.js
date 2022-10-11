@@ -49,3 +49,8 @@ var num2 = 0.2;
 var sum = num1 + num2;
 sum = sum.toFixed(1)
 console.log(sum);
+
+var jahangir = 100;
+var parson = 10;
+var total = jahangir / parson;
+console.log(total);
