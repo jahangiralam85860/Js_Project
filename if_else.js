@@ -21,4 +21,6 @@ console.log(index);
 // array new index add
 destinations.push('bhutan');
 console.log(destinations);
-// arra
+// array last index delete
+destinations.pop();
+console.log(destinations);
