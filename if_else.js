@@ -18,3 +18,7 @@ destinations[2] = 'thailand';
 // array index check
 var index = destinations.indexOf('balli');
 console.log(index);
+// array new index add
+destinations.push('bhutan');
+console.log(destinations);
+// arra
