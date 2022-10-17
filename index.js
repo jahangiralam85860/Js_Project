@@ -9,3 +9,4 @@ console.log(nayikas);
 //  index check
 var positionIndex = nayikas.indexOf("sabnur");
 console.log(positionIndex);
+// result : 3
