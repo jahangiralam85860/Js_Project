@@ -19,3 +19,10 @@ while (number <= 10) {
     console.log(number);
     number++
 }
+ 
+// while loop
+var result = 40;
+while (result <= 50) {
+    console.log( result );
+    result++;
+}
