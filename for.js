@@ -15,5 +15,5 @@ for (let index = 0; index < numbers.length; index++) {
 var names = ['jahangir','monirul','shofiq','hamid','masud','roky'];
 for (let i = 0; i < names.length; i++) {
     const items = names[i];
-    console.log(items);
+    console.log(items.length);
 }
