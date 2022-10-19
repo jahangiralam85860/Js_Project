@@ -26,3 +26,10 @@ while (result <= 50) {
     console.log( result );
     result++;
 }
+
+// while ulto print
+var num = 10;
+while (num > 1) {
+    console.log(num);
+    num--;
+}
