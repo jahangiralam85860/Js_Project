@@ -17,10 +17,3 @@ for (let i = 0; i < names.length; i++) {
     const items = names[i];
     console.log(items.length);
 }
-
-for (let i = 10; i >= 1; i--) {
-    while ( i == 7 ) {
-        break;
-    }
-    console.log(i);
-}
