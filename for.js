@@ -19,8 +19,8 @@ for (let i = 0; i < names.length; i++) {
 }
 
 for (let i = 10; i >= 1; i--) {
-    console.log(i); 
     while ( i == 7 ) {
         break;
     }
+    console.log(i);
 }
