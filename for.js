@@ -17,3 +17,8 @@ for (let i = 0; i < names.length; i++) {
     const items = names[i];
     console.log(items.length);
 }
+
+var num = 23;
+var point = 100;
+var total = num + point;
+console.log();
