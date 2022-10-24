@@ -40,4 +40,6 @@ var motherGiven = 1000;
 var applePrice = 300;
 var orangePrice = 200;
 var product = applePrice + orangePrice;
-console.log(product);
+// console.log(product);
+var cashReturn =  motherGiven - product;
+console.log(cashReturn);
