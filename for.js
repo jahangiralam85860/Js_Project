@@ -26,8 +26,8 @@ console.log(total);
 var names = ['jahangir', 'alam','joy'];
 for (let i = 0; i < names.length; i++) {
     const print = names[i];
-    while (names == 'alam') {
+    while (print == 'alam') {
         break;
     }
-    console.log(print);
+    
 }
