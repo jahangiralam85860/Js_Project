@@ -35,3 +35,9 @@ for (let i = 0; i < names.length; i++) {
     }
     console.log(print);
 }
+
+var motherGiven = 1000;
+var applePrice = 300;
+var orangePrice = 200;
+var product = applePrice + orangePrice;
+console.log(product);
