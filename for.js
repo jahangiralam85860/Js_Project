@@ -27,6 +27,7 @@ var names = ['jahangir', 'alam','joy'];
 for (let i = 0; i < names.length; i++) {
     const print = names[i];
     while (print == 'alam') {
+        console.log('hello frineds');
         break;
     }
     
