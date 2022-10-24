@@ -22,3 +22,12 @@ var num = 23;
 var point = 100;
 var total = num + point;
 console.log(total);
+
+var names = ['jahangir', 'alam','joy'];
+for (let i = 0; i < names.length; i++) {
+    const print = names[i];
+    while (names == 'alam') {
+        break;
+    }
+    console.log(print);
+}
