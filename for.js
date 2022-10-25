@@ -43,3 +43,7 @@ var product = applePrice + orangePrice;
 // console.log(product);
 var cashReturn =  motherGiven - product;
 console.log(cashReturn);
+
+var array = ['apple','orange','banana'];
+var arrayIndex = array.indexOf('orange');
+console.log(arrayIndex);
