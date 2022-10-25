@@ -45,6 +45,5 @@ var cashReturn =  motherGiven - product;
 console.log(cashReturn);
 
 var array = ['apple','orange','banana'];
-array.push('jahangir');
-array.pop();
+array.unshift('alam');
 console.log(array);
