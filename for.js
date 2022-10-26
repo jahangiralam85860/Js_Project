@@ -50,7 +50,7 @@ console.log(array);
 
 var result = [50,60,70,80,90];
 for (let prapti = 0; prapti < result.length; prapti++) {
-    const element = result[];
+    const element = result[prapti];
     console.log(element);
     
 }
