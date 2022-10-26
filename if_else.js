@@ -24,3 +24,16 @@ console.log(destinations);
 // array last index delete
 destinations.pop();
 console.log(destinations);
+
+var num1 = 'jahangir';
+var num2 = 'masud';
+var num3 = 'sojib';
+var num4 = 'prapti';
+
+if (num1 == num2) {
+    console.log('I know');
+}else if (num1 != num4) {
+    console.log('I love you prapti');   
+}else{
+    console.log('You are bad boy');
+}
