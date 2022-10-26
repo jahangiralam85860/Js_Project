@@ -34,9 +34,4 @@ while (num > 1) {
     num--;
 }
 
-var names = 0;
-while (names > 20) {
-    console.log(names);
-    names++;
 
-}
