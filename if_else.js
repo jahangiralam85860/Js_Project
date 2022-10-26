@@ -32,7 +32,7 @@ var num4 = 'prapti';
 
 if (num1 == num2) {
     console.log('I know');
-}else if (num1 == num4) {
+}else if (num1 != num4) {
     console.log('I love you prapti');   
 }else{
     console.log('You are bad boy');
