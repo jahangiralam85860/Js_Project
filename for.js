@@ -47,3 +47,10 @@ console.log(cashReturn);
 var array = ['apple','orange','banana'];
 array.unshift('alam');
 console.log(array);
+
+var result = [50,60,70,80,90];
+for (let prapti = 0; prapti < result.length; prapti++) {
+    const element = result[];
+    console.log(element);
+    
+}
