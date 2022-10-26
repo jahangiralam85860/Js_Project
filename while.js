@@ -33,3 +33,10 @@ while (num > 1) {
     console.log(num);
     num--;
 }
+
+var names = 0;
+while (names > 20) {
+    console.log(names);
+    names++;
+
+}
