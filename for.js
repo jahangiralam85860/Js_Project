@@ -51,5 +51,8 @@ console.log(array);
 var result = [50,60,70,80,90];
 for (let prapti = 0; prapti < result.length; prapti++) {
     const element = result[prapti];
-    console.log(element); 
+    console.log(element);
+    if (element == 70) {
+        break;
+    } 
 }
