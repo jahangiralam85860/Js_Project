@@ -1,5 +1,5 @@
-for (let index = 0; index < 10; index++) {
-    console.log(index);
+for (let jahangir = 0; jahangir < 10; jahangir++) {
+    console.log(jahangir);
 } 
 
 for (let jahangir = 0; jahangir < 30; jahangir++) {
@@ -7,8 +7,8 @@ for (let jahangir = 0; jahangir < 30; jahangir++) {
 }
 
 var numbers = [10,20,30,40,50,60,70];
-for (let index = 0; index < numbers.length; index++) {
-    var number = numbers[index];
+for (let jahangir = 0; jahangir < numbers.length; jahangir++) {
+    var number = numbers[jahangir];
     console.log(number); 
 }
 
@@ -55,4 +55,9 @@ for (let prapti = 0; prapti < result.length; prapti++) {
     if (element == 70) {
         break;
     } 
+}
+var array = ['html','css','bootstrap','tailwind','node js','javascript'];
+for (let jahangir = 0; jahangir < array.length; jahangir++) {
+    const element = array[jahangir];
+    console.log(element);
 }
