@@ -15,4 +15,12 @@ var total = add(110,140);
 var total = add(110,144);
 console.log('total=', total);
 
-var arrayObj = ['jahangir',{names: 'hero',age: '24',job: 'software'},Bangladesh];
+var arrayObj = ['jahangir',
+{
+names: 'hero',
+age: '24',
+job: 'software'},
+'Bangladesh'
+];
+var test = arrayObj[1].names;
+console.log(test);
