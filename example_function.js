@@ -25,3 +25,5 @@ const firstTaka = add(100,200);
 const secondTaka = add(300,200);
 const fullPayment = add(firstTaka, secondTaka);
 console.log(fullPayment);
+
+
