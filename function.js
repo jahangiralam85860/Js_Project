@@ -43,3 +43,11 @@ function bringSingara(money) {
 }
 var singara = bringSingara(100);
 console.log(singara);
+
+function bringSingara(money) {
+    var singaraPrice = 10;
+    var quantity = money * singaraPrice;
+    return quantity;
+}
+var singara = bringSingara(100);
+console.log(singara);
