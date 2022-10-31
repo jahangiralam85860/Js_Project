@@ -7,4 +7,4 @@ const myComputer = {
     core : 'i5'
 }
 
-console.log(myComputer);
+console.log(myComputer.price);
