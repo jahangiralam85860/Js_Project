@@ -26,3 +26,7 @@ var test = arrayObj[1].names;
 var test = arrayObj[1].job;
 var test = arrayObj[1].age;
 console.log(test);
+
+for (let i = 0; i < 29; i++) {
+    console.log(i);
+}
