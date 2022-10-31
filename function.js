@@ -29,8 +29,9 @@ console.log(test);
 
 
 function result(bangla, english, math) {
+    console.log(bangla,english,math);
     var print = result;
     return print;
 }
-var printResult = (60,70,50);
+var printResult = result(60,70,50);
 console.log(printResult);
