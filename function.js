@@ -22,6 +22,7 @@ age: '24',
 job: 'software'},
 'Bangladesh'
 ];
-// var test = arrayObj[1].names;
+var test = arrayObj[1].names;
 var test = arrayObj[1].job;
+var test = arrayObj[1].age;
 console.log(test);
