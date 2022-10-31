@@ -35,3 +35,11 @@ function result(bangla, english, math) {
 }
 var printResult = result(60,70,50);
 console.log(printResult);
+
+function bringSingara(money) {
+    var singaraPrice = 10;
+    var quantity = money / singaraPrice;
+    return quantity;
+}
+var singara = bringSingara(100);
+console.log(singara);
