@@ -16,3 +16,12 @@ function functionName(parameters) {
  console.log(myAverage);
 
 //  step by step taka sum 
+function add(first, second) {
+    const sum = first + second;
+    return sum;
+}
+
+const firstTaka = add(100,200);
+const secondTaka = add(300,200);
+const fullPayment = add(firstTaka, secondTaka);
+console.log(fullPayment);
