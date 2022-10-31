@@ -27,3 +27,10 @@ job: 'software'},
 var test = arrayObj[1].age;
 console.log(test);
 
+
+function result(bangla, english, math) {
+    var print = result;
+    return print;
+}
+var printResult = (60,70,50);
+console.log(printResult);
