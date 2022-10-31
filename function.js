@@ -49,5 +49,6 @@ function bringSingara(money) {
     var quantity = money * singaraPrice;
     return quantity;
 }
-var singara = bringSingara(100);
+var myTaka = 500;
+var singara = bringSingara(myTaka);
 console.log(singara);
