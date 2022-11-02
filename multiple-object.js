@@ -6,5 +6,22 @@ const myComputer = {
     color : 'black',
     core : 'i5'
 }
-myComputer.price = '50000';
-console.log(myComputer.price);
+const test = myComputer.brand;
+// console.log(test);
+
+// var shoppingCard = {
+//     books : 3,
+//     sunglass : 1,
+//     keyboard : 1,
+//     mouse : 3,
+//     pen : 5
+// }
+// var result = shoppingCard.value;
+// console.log(result);
+
+Object.keys(myComputer).forEach(function (key) {
+    console.log(key,": ",myComputer[key]);
+    // console.log(myComputer[key]);
+
+
+});
