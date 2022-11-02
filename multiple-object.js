@@ -7,7 +7,11 @@ const myComputer = {
     core : 'i5'
 }
 const test = myComputer.brand;
-// console.log(test);
+
+Object.keys(myComputer).forEach(function (key) {
+    console.log(key,": ",myComputer[key]);
+    // console.log(myComputer[key]);
+});
 
 // var shoppingCard = {
 //     books : 3,
@@ -19,7 +23,3 @@ const test = myComputer.brand;
 // var result = shoppingCard.value;
 // console.log(result);
 
-Object.keys(myComputer).forEach(function (key) {
-    console.log(key,": ",myComputer[key]);
-    console.log(myComputer[key]);
-});
