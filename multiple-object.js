@@ -21,7 +21,5 @@ const test = myComputer.brand;
 
 Object.keys(myComputer).forEach(function (key) {
     console.log(key,": ",myComputer[key]);
-    // console.log(myComputer[key]);
-
-
+    console.log(myComputer[key]);
 });
