@@ -22,5 +22,6 @@ var shoppingCard = {
 }
 // var result = shoppingCard.value;
 shoppingCard.myName = 'jahangir alam';
+var properties = Object.keys(shoppingCard);
 console.log(shoppingCard);
 
