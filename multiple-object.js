@@ -9,17 +9,18 @@ const myComputer = {
 const test = myComputer.brand;
 
 Object.keys(myComputer).forEach(function (key) {
-    console.log(key,": ",myComputer[key]);
+    console.log(key," : ",myComputer[key]);
     // console.log(myComputer[key]);
 });
 
-// var shoppingCard = {
-//     books : 3,
-//     sunglass : 1,
-//     keyboard : 1,
-//     mouse : 3,
-//     pen : 5
-// }
+var shoppingCard = {
+    books : 3,
+    sunglass : 1,
+    keyboard : 1,
+    mouse : 3,
+    pen : 5
+}
 // var result = shoppingCard.value;
-// console.log(result);
+shoppingCard.myName = 'jahangir alam';
+console.log(shoppingCard);
 
