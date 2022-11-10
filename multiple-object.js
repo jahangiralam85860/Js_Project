@@ -20,10 +20,13 @@ var shoppingCard = {
     mouse : 3,
     pen : 5
 }
-// var result = shoppingCard.value;
-shoppingCard.myName = 'jahangir alam';
-// keys and values check 
-var properties = Object.values(shoppingCard);
-// var properties = Object.keys(shoppingCard);
-console.log(properties);
+var text = shoppingCard.keyboard;
+console.log(text);
+// shoppingCard.books = 5;
+// // var result = shoppingCard.value;
+// shoppingCard.myName = 'jahangir alam';
+// // keys and values check 
+// var properties = Object.values(shoppingCard);
+// // var properties = Object.keys(shoppingCard);
+// console.log(properties);
 
