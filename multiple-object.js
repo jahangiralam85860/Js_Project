@@ -22,11 +22,11 @@ var shoppingCard = {
 }
 var text = shoppingCard.keyboard;
 console.log(text);
-// shoppingCard.books = 5;
-// // var result = shoppingCard.value;
-// shoppingCard.myName = 'jahangir alam';
-// // keys and values check 
-// var properties = Object.values(shoppingCard);
-// // var properties = Object.keys(shoppingCard);
-// console.log(properties);
+shoppingCard.books = 5;
+// var result = shoppingCard.value;
+shoppingCard.myName = 'jahangir alam';
+// keys and values check 
+var properties = Object.values(shoppingCard);
+// var properties = Object.keys(shoppingCard);
+console.log(properties);
 
